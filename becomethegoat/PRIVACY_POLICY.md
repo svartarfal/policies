@@ -1,62 +1,93 @@
 # Privacy Policy for Become THE GOAT
 
-**Last Updated: November 24, 2025**
+**Last Updated: December 18, 2025**
 
 ## Introduction
 
-This Privacy Policy describes how Become THE GOAT ("we", "our", or "the app") collects, uses, and shares information when you use our mobile game application.
+This Privacy Policy explains how *Become THE GOAT* ("we", "our", or "the app") handles information when you use our mobile game application. We are committed to protecting user privacy and complying with Google Play Developer Program Policies, including Family and Children’s Privacy requirements.
+
+---
 
 ## Information We Collect
 
 ### Information You Provide
-Become THE GOAT is designed as a standalone game and does not require user registration or account creation. We do not collect any personal information directly from users.
+Become THE GOAT does not require user registration, account creation, or login. Users are not asked to provide any personal information to use the app.
 
 ### Automatically Collected Information
-- **Device Information**: We may collect basic device information such as device type, operating system version, and unique device identifiers for app functionality and crash reporting purposes.
-- **Usage Data**: We may collect anonymous usage statistics such as game sessions, level progression, and in-app interactions to improve game performance and user experience.
+The app may collect limited, non-personally identifiable technical information necessary for proper operation and improvement, including:
 
-## How We Use Your Information
+- **Device Information**: Device type, operating system version, and basic technical identifiers required for app functionality and stability.
+- **Usage Data**: Anonymous gameplay data such as session duration, level progression, and in-app interactions.
+- **Crash and Performance Data**: Anonymous diagnostic data used to detect errors and improve performance.
 
-We use the automatically collected information to:
-- Ensure proper game functionality
-- Analyze and improve game performance
-- Fix bugs and technical issues
-- Enhance user experience
+No advertising identifiers are collected.
+
+---
+
+## How We Use Information
+
+Automatically collected information is used solely to:
+
+- Ensure proper app functionality
+- Monitor app stability and performance
+- Identify and fix bugs or crashes
+- Improve gameplay experience and usability
+
+---
 
 ## Data Sharing and Disclosure
 
-We do not sell, trade, or rent your personal information to third parties. We do not share any collected data with external parties except:
+We do not sell, rent, or trade user data.
+
+Information may be disclosed only in the following limited circumstances:
 - When required by law or legal process
-- To protect our rights and safety
+- To protect the rights, safety, or security of users or the app
 
-## Children's Privacy
+---
 
-Become THE GOAT does not knowingly collect personal information from children under the age of 13. Our game does not require any personal information to play.
+## Children’s Privacy
 
-## Data Security
+Become THE GOAT is designed for general audiences, including children. The app does not collect personally identifiable information from any users, including children under the age of 13.
 
-We implement reasonable security measures to protect any automatically collected data. However, no method of electronic storage is 100% secure.
+The app complies with applicable children’s privacy laws and regulations, including the Children’s Online Privacy Protection Act (COPPA).
+
+---
 
 ## Third-Party Services
 
-Currently, Become THE GOAT does not integrate any third-party analytics, advertising, or data collection services. If we integrate such services in the future, this policy will be updated accordingly.
+Become THE GOAT uses essential third-party services provided by **Google Play Services** solely for core functionality, app stability, and crash reporting.
 
-## Changes to This Privacy Policy
+These services may collect limited, anonymous technical data in accordance with their own privacy policies.  
+We do **not** use third-party advertising, marketing, or user profiling services.
 
-We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated "Last Updated" date. We encourage you to review this policy periodically.
+---
 
 ## Data Retention
 
-Any automatically collected anonymous data is retained only as long as necessary for the purposes described in this policy.
+Anonymous technical and usage data is retained only for as long as necessary to fulfill the purposes outlined in this Privacy Policy and is then deleted or anonymized.
+
+---
+
+## Data Security
+
+We apply reasonable technical and organizational measures to protect any collected data. However, no electronic storage or transmission method is completely secure.
+
+---
 
 ## Your Rights
 
-Since we do not collect personal information, there is no personal data to access, modify, or delete. If you have concerns about data collection, you can uninstall the app at any time.
+Since the app does not collect personally identifiable information, there is no personal data for users to access, modify, or delete. Users may stop all data collection by uninstalling the app at any time.
+
+---
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy when necessary. Any changes will be reflected on this page with an updated "Last Updated" date. Continued use of the app constitutes acceptance of the updated policy.
+
+---
 
 ## Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at:
+If you have any questions or concerns regarding this Privacy Policy, please contact us:
 
-**Email**: [studiosthisplay@gmail.com]
-
---
+**Email:** studiosthisplay@gmail.com
