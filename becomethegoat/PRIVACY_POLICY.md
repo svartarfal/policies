@@ -1,17 +1,17 @@
-# Privacy Policy for Become THE GOAT
+# Privacy Policy for Goaterino
 
 **Last Updated: December 18, 2025**
 
 ## Introduction
 
-This Privacy Policy explains how *Become THE GOAT* ("we", "our", or "the app") handles information when you use our mobile game application. We are committed to protecting user privacy and complying with Google Play Developer Program Policies, including Family and Children’s Privacy requirements.
+This Privacy Policy explains how *Goaterino* ("we", "our", or "the app") handles information when you use our mobile game application. We are committed to protecting user privacy and complying with Google Play Developer Program Policies, including Family and Children’s Privacy requirements.
 
 ---
 
 ## Information We Collect
 
 ### Information You Provide
-Become THE GOAT does not require user registration, account creation, or login. Users are not asked to provide any personal information to use the app.
+Goaterino does not require user registration, account creation, or login. Users are not asked to provide any personal information to use the app.
 
 ### Automatically Collected Information
 The app may collect limited, non-personally identifiable technical information necessary for proper operation and improvement, including:
@@ -47,7 +47,7 @@ Information may be disclosed only in the following limited circumstances:
 
 ## Children’s Privacy
 
-Become THE GOAT is designed for general audiences, including children. The app does not collect personally identifiable information from any users, including children under the age of 13.
+Goaterino is designed for general audiences, including children. The app does not collect personally identifiable information from any users, including children under the age of 13.
 
 The app complies with applicable children’s privacy laws and regulations, including the Children’s Online Privacy Protection Act (COPPA).
 
@@ -55,7 +55,7 @@ The app complies with applicable children’s privacy laws and regulations, incl
 
 ## Third-Party Services
 
-Become THE GOAT uses essential third-party services provided by **Google Play Services** solely for core functionality, app stability, and crash reporting.
+Goaterino uses essential third-party services provided by **Google Play Services** solely for core functionality, app stability, and crash reporting.
 
 These services may collect limited, anonymous technical data in accordance with their own privacy policies.  
 We do **not** use third-party advertising, marketing, or user profiling services.
