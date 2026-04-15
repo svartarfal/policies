@@ -1,93 +1,59 @@
-# Privacy Policy for Goaterino
+Privacy Policy for DaiDedun
+Last Updated: April 15, 2026
 
-**Last Updated: December 18, 2025**
+Introduction
+This Privacy Policy explains how DaiDedun ("we", "our", or "the app") handles information. DaiDedun is a professional personal finance and wealth management tool. We are committed to protecting your privacy and ensuring that your financial data remains under your total control.
 
-## Introduction
+DaiDedun is designed as a "Local-First" application. This means your financial records are stored directly on your device, not on our servers.
 
-This Privacy Policy explains how *Goaterino* ("we", "our", or "the app") handles information when you use our mobile game application. We are committed to protecting user privacy and complying with Google Play Developer Program Policies, including Family and Children’s Privacy requirements.
+Information We Collect
+Financial Data (User-Generated Content)
+All data you enter into the app—including income, expenses, assets in The Vault (Gold, Property, Currencies), and custom hashtags—is stored locally on your device.
 
----
+We do not have access to your financial records.
 
-## Information We Collect
+We do not collect your bank account details or balance information.
 
-### Information You Provide
-Goaterino does not require user registration, account creation, or login. Users are not asked to provide any personal information to use the app.
+Information You Provide
+DaiDedun does not require account registration, cloud syncing, or profile creation. You can use all features of the app anonymously.
 
-### Automatically Collected Information
-The app may collect limited, non-personally identifiable technical information necessary for proper operation and improvement, including:
+Automatically Collected Information
+To ensure app stability and a professional user experience, the app may collect limited, non-personally identifiable technical data:
 
-- **Device Information**: Device type, operating system version, and basic technical identifiers required for app functionality and stability.
-- **Usage Data**: Anonymous gameplay data such as session duration, level progression, and in-app interactions.
-- **Crash and Performance Data**: Anonymous diagnostic data used to detect errors and improve performance.
+Device Information: Model and operating system version.
 
-No advertising identifiers are collected.
+Performance Logs: Anonymous crash reports to identify and fix technical bugs.
 
----
+Data Storage and Security
+Local Storage
+Your data is stored within the app's private directory on your Android device. Since we do not use cloud storage for your financial data, you are responsible for the security of your device and any manual backups you create.
 
-## How We Use Information
+Data Sharing
+We do not sell, rent, trade, or share your data with any third parties. Your financial life stays on your phone.
 
-Automatically collected information is used solely to:
+Third-Party Services
+DaiDedun uses essential services provided by Google Play Services solely for:
 
-- Ensure proper app functionality
-- Monitor app stability and performance
-- Identify and fix bugs or crashes
-- Improve gameplay experience and usability
+App updates and distribution.
 
----
+Basic crash reporting and stability monitoring.
 
-## Data Sharing and Disclosure
+These services do not have access to the financial data you enter within the app. We do not use third-party advertising or data-mining tools.
 
-We do not sell, rent, or trade user data.
+Children’s Privacy
+DaiDedun is a general audience financial tool. We do not knowingly collect or solicit personal information from anyone, including children under the age of 13 (or the applicable age in your jurisdiction).
 
-Information may be disclosed only in the following limited circumstances:
-- When required by law or legal process
-- To protect the rights, safety, or security of users or the app
+Your Rights and Data Control
+Access and Deletion: You have full control over your data. You can edit or delete any entry at any time.
 
----
+Full Erasure: Uninstalling the app will automatically delete all locally stored data associated with DaiDedun.
 
-## Children’s Privacy
+Export: If available in your version, any data export features (e.g., PDF or CSV) are processed locally on your device.
 
-Goaterino is designed for general audiences, including children. The app does not collect personally identifiable information from any users, including children under the age of 13.
+Changes to This Privacy Policy
+We may update this Privacy Policy as we add new professional features (such as optional cloud backup in the future). Any changes will be updated here with a new "Last Updated" date.
 
-The app complies with applicable children’s privacy laws and regulations, including the Children’s Online Privacy Protection Act (COPPA).
+Contact Us
+If you have any questions about how DaiDedun protects your privacy, please contact the team:
 
----
-
-## Third-Party Services
-
-Goaterino uses essential third-party services provided by **Google Play Services** solely for core functionality, app stability, and crash reporting.
-
-These services may collect limited, anonymous technical data in accordance with their own privacy policies.  
-We do **not** use third-party advertising, marketing, or user profiling services.
-
----
-
-## Data Retention
-
-Anonymous technical and usage data is retained only for as long as necessary to fulfill the purposes outlined in this Privacy Policy and is then deleted or anonymized.
-
----
-
-## Data Security
-
-We apply reasonable technical and organizational measures to protect any collected data. However, no electronic storage or transmission method is completely secure.
-
----
-
-## Your Rights
-
-Since the app does not collect personally identifiable information, there is no personal data for users to access, modify, or delete. Users may stop all data collection by uninstalling the app at any time.
-
----
-
-## Changes to This Privacy Policy
-
-We may update this Privacy Policy when necessary. Any changes will be reflected on this page with an updated "Last Updated" date. Continued use of the app constitutes acceptance of the updated policy.
-
----
-
-## Contact Us
-
-If you have any questions or concerns regarding this Privacy Policy, please contact us:
-
-**Email:** studiosthisplay@gmail.com
+Email: studiosthisplay@gmail.com
